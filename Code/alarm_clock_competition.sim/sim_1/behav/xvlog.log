@@ -1,0 +1,65 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/imports/new/divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/loaderr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module loader
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/numberh2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module numberh2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/numberh1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module numberh1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/imports/new/clockdivider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bigboy
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/hour_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hour_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/number1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module number1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/imports/new/number.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module number
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/LUT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LUT
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/minute_enabler.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module minute_enabler
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/imports/new/divider_1Hz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dividerHz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/ip/c_counter_binary_0/c_counter_binary_0_sim_netlist.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0_c_counter_binary_v12_0_10
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0_c_addsub_v12_0_10_fabric_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0_c_addsub_v12_0_10_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0_c_addsub_v12_0_10_lut6_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0_c_counter_binary_v12_0_10_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0_c_counter_binary_v12_0_10_viv
+INFO: [VRFC 10-311] analyzing module c_counter_binary_0_c_reg_fd_v12_0_3_viv
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-1195] overwriting previous definition of module glbl [C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/ip/c_counter_binary_0/c_counter_binary_0_sim_netlist.v:597]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/ip/c_counter_binary_1/c_counter_binary_1_sim_netlist.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1_c_counter_binary_v12_0_10
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1_c_addsub_v12_0_10_fabric_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1_c_addsub_v12_0_10_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1_c_addsub_v12_0_10_lut6_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1_c_counter_binary_v12_0_10_legacy
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1_c_counter_binary_v12_0_10_viv
+INFO: [VRFC 10-311] analyzing module c_counter_binary_1_c_reg_fd_v12_0_3_viv
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-1195] overwriting previous definition of module glbl [C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/ip/c_counter_binary_1/c_counter_binary_1_sim_netlist.v:597]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/pm_driver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pm_driver
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/mux_driver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_driver
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/laoder_f.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module loader_f
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/imports/new/big_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module big_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.srcs/sources_1/new/topper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module topper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-1195] overwriting previous definition of module glbl [C:/Users/jainr/OneDrive/Documents/digital lab/lab9_3_3/lab9_3_3.sim/sim_1/behav/glbl.v:6]
