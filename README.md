@@ -16,4 +16,4 @@ In case your curious and want to see an code example, please go to
 
 The actual code files all have a suffix of ".v", but without an actual dedicated IDE, this codebase would be extremely hard to understand.
 
-As promised, this is my documentation! (see.\Results\AlarmClockReport.pdf) 
+As promised, this is my documentation! (see .\Results\AlarmClockReport.pdf) 
